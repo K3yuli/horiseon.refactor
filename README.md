@@ -1,13 +1,13 @@
 **HORISEON**
 
-#Horiseon helps your business in many ways
+# Horiseon helps your business in many ways
 
-#Usefulness:
+# Usefulness:
 
 -
 
-#To get started:
+# To get started:
 
-#Get help when:
+# Get help when:
 
-#Maintenance done by:
+# Maintenance done by:
