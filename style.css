@@ -4,10 +4,12 @@
   margin: 0;
 }
 
+/* start styling the body */
 body {
   background-color: #d9dcd6;
 }
 
+/* start styling the header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
