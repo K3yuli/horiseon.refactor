@@ -1,13 +1,25 @@
-**HORISEON**
+# **HORISEON**
 
-# Horiseon helps your business in many ways
+## Hiriseon's Aim
 
-# Usefulness:
+_Horiseon was created to work for you. Consider it the back bone of your business. We handle the back work while you focuse on your clients _
 
--
+## Usefulness:
 
-# To get started:
+- search engine optimizing
+- oline reputation management
+- social media marketing
+- lead generation
+- brand awareness
+- cost management
 
-# Get help when:
+## What was used
 
-# Maintenance done by:
+- HTML
+- CSS
+
+[title] (https://k3yuli.github.io/horiseon.refactor/)
+
+### Maintenance done by:
+
+- Kenia Y.L.G
