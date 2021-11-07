@@ -1,8 +1,8 @@
 # **HORISEON**
 
-## Hiriseon's Aim
+## Horiseon's Aim
 
-_Horiseon was created to work for you. Consider it the back bone of your business. We handle the back work while you focuse on your clients _
+_Horiseon was created to work for you. Consider it the back bone of your business. We handle the back work while you focuse on your clients._
 
 ## Usefulness:
 
@@ -13,12 +13,12 @@ _Horiseon was created to work for you. Consider it the back bone of your busines
 - brand awareness
 - cost management
 
-## What was used
+### What was used
 
 - HTML
 - CSS
 
-[title] (https://k3yuli.github.io/horiseon.refactor/)
+[Horiseon Webpage] (https://k3yuli.github.io/horiseon.refactor/)
 
 ### Maintenance done by:
 
